@@ -6,6 +6,12 @@
 //  Copyright (c) 2014 tylerflowers. All rights reserved.
 //
 
+/*
+ 
+ 2014 Student Scholarship winning app for WWDC 14
+ 
+*/
+
 #import "MainAppDelegate.h"
 
 @implementation MainAppDelegate
